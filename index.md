@@ -1,7 +1,8 @@
 ## Table of content
+Welcome to CODEMONDAY exam page
 
-<img src="/assets/codemonday-logo.png"  width="300" height="300">
-![Tux, the Linux mascot](/assets/codemonday-logo.png)
+<img src="assets/codemonday-logo-hor.png"  height="50">
+
 ### Live code
 CODEMONDAY-live-code-interview (JavaScript based) \
 Live-code interview questions for CODEMONDAY's software developer (year 2022).
@@ -15,11 +16,12 @@ Live-code interview questions for CODEMONDAY's software developer (year 2022).
 4. [Question 7](/pages/live-code-7.md)
 4. [Question 8](/pages/live-code-8.md)
 
-
 ### Solution to case
+* Design and present the solution the way you usually do.
+* Please make and state assumption (if any)
+* Feel free to ask the question to get the neccessary information needed to complete the task.
 
-1. bullet one
-2. bullet two
-3. bullet three
-
-This is link to [second page](/pages/second.md).
+1. [Case 1: Managing microsite](/pages/case-1.md)
+2. [Case 2: Managing microsite](/pages/case-2.md)
+3. [Case 3: Managing microsite](/pages/case-3.md)
+4. [Case 4: Managing microsite](/pages/case-4.md)
