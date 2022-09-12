@@ -17,6 +17,9 @@ Live-code interview questions for CODEMONDAY's software developer (year 2022).
 4. [Question 8](/pages/live-code-8.md)
 
 ### Solution to case
+This is an open end question. So feel free to make assumption and explorer the solution in details. \
+We will evaluate you on your idea and experience designing the solution to fit the use case.
+
 * Design and present the solution the way you usually do.
 * Please make and state assumption (if any)
 * Feel free to ask the question to get the neccessary information needed to complete the task.
