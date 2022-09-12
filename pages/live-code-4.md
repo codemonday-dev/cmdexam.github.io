@@ -1,6 +1,6 @@
 ## Question 4 (React/React Native)
 Given: UI image. \
-![Image of React Counter](https://github.com/codemonday-dev/cmd-easy-exam-202203/blob/main/counter-plain.png)
+![Image of React Counter](../assets/counter-plain.png)
 
 Find: Make UI for the counter gadget with interaction as in the given image
 
