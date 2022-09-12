@@ -1,6 +1,7 @@
 ## Case 2: Race condition
 
-<img src="../assets/case-2-image.jpg"  height="300">
+<img src="../assets/case-2-image-1.jpg"  height="300">
+<img src="../assets/case-2-image-2.jpg"  height="300">
 
 **Existing component**: Core booking engine
 
