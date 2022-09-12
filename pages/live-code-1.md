@@ -19,7 +19,7 @@ Find: Total price amount in each category.
 #### Input
 Request JSON data to the server running on port 8080
 
-```http
+```
 POST http://localhost:8080/checkout
 ```
 
