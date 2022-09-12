@@ -1,5 +1,7 @@
 ## Table of content
 
+<img src="/assets/codemonday-logo.png"  width="300" height="300">
+![Tux, the Linux mascot](/assets/codemonday-logo.png)
 ### Live code
 CODEMONDAY-live-code-interview (JavaScript based) \
 Live-code interview questions for CODEMONDAY's software developer (year 2022).
@@ -19,6 +21,5 @@ Live-code interview questions for CODEMONDAY's software developer (year 2022).
 1. bullet one
 2. bullet two
 3. bullet three
-
 
 This is link to [second page](/pages/second.md).
