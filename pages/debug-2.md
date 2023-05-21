@@ -32,7 +32,7 @@ console.log(obj2)
 
 Now the output of calling `node index.js` are
 ```
-{ foo: 'bar' }
+{ foo: 'baz' } // WRONG HERE
 { foo: 'baz', a: 1, b: 2 }
 ```
 
