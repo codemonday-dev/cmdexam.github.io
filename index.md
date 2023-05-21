@@ -16,6 +16,9 @@ Live-code interview questions for CODEMONDAY's software developer (year 2022).
 4. [Question 7](/pages/live-code-7.md)
 4. [Question 8](/pages/live-code-8.md)
 
+### Fix Code
+1. [Debug 1](/pages/debug-1.md)
+
 ### Solution to case
 This is an open end question. So feel free to make assumption and explorer the solution in details. \
 We will evaluate you on your idea and experience designing the solution to fit the use case.
