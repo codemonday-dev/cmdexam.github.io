@@ -1,4 +1,4 @@
-### Problem
+### Debug Problem #1
 See the code below
 
 ```js
@@ -21,7 +21,7 @@ app.listen(port, () => { console.log(`[DEBUG] ${Date.now()} listening`) })
 
 ```
 
-Now the output are
+Now the output of calling `GET localhost:3030/` are
 ```
 {}
 ```
