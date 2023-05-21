@@ -17,8 +17,9 @@ Live-code interview questions for CODEMONDAY's software developer (year 2022).
 4. [Question 8](/pages/live-code-8.md)
 
 ### Fix Code
-1. [Debug 1 Express](/pages/debug-1.md)
-2. [Debug 1 Import / Export](/pages/debug-2.md)
+1. [Debug 1 Express (Easy)](/pages/debug-1.md)
+2. [Debug 2 Import / Export (Hard)](/pages/debug-2.md)
+3. [Debug 3 Functional programming (easy)](/pages/debug-3.md)
 
 ### Solution to case
 This is an open end question. So feel free to make assumption and explorer the solution in details. \
