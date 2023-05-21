@@ -13,7 +13,7 @@ app.get('/data', (req, res) => {
 })
 
 app.get('/', (req, res) => {
-  const data = axios.get(`http://localhost:${port}/data`)
+  const { data } = axios.get(`http://localhost:${port}/data`)
   res.json(data)
 })
 
