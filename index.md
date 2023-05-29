@@ -20,6 +20,7 @@ Live-code interview questions for CODEMONDAY's software developer (year 2022).
 1. [Debug 1 Express (Easy)](/pages/debug-1.md)
 2. [Debug 2 Import / Export (Hard)](/pages/debug-2.md)
 3. [Debug 3 Functional programming (easy)](/pages/debug-3.md)
+4. [Debug 4 Error Handling (Medium)](/pages/debug-4.md)
 
 ### Solution to case
 This is an open end question. So feel free to make assumption and explorer the solution in details. \
