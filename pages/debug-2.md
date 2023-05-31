@@ -16,6 +16,7 @@ import obj1 from './file1.js'
 obj1.foo = 'baz'
 
 export default {
+  ...obj1,
   a: 1,
   b: 2
 }
