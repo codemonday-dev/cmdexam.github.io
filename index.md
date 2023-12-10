@@ -34,3 +34,7 @@ We will evaluate you on your idea and experience designing the solution to fit t
 2. [Case 2: Race condition](/pages/case-2.md)
 3. [Case 3: Data integrity](/pages/case-3.md)
 4. [Case 4: Authentication](/pages/case-4.md)
+
+### DevOps
+1. [Concept](/pages/dev-ops-1.md)
+2. [Implementation](/pages/dev-ops-2.md)
